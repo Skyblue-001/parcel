@@ -1,0 +1,12 @@
+{
+    "modules": true,
+    "plugin": {
+        "autoprefixer": {
+            "browers": [
+                "> 1%",
+                "Last 2 versions",
+                "IE10"
+            ]
+        }
+    }
+}

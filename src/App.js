@@ -1,4 +1,4 @@
 import React from 'react';
-import PropTypes from 'prop-types';
+import styles from './styles.scss'
 
-export default () => <div>lalala</div>
+export default () => <div className={styles.title}>lalala</div>
